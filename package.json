@@ -1,0 +1,14 @@
+{
+  "name": "patioreseat",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "PatioReseat — a practical English guide to patio furniture replacement cushions.",
+  "scripts": {
+    "start": "eleventy --serve --port=8080",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}

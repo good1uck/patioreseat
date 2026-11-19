@@ -1,0 +1,14 @@
+---
+layout: base.njk
+---
+<article class="wrap">
+  <header class="page-hero">
+    <p class="crumbs"><a href="/">Home</a> / Guides</p>
+    <p class="kicker">Guide</p>
+    <h1>{{ title }}</h1>
+    {% if description %}<p>{{ description }}</p>{% endif %}
+  </header>
+  <div class="prose">
+    {{ content | safe }}
+  </div>
+</article>

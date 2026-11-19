@@ -1,0 +1,25 @@
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="site-footer__grid">
+      <div>
+        <p><strong>{{ site.name }}</strong><br>{{ site.tagline }}</p>
+        <p>An independent guide. Not affiliated with Brown Jordan, Homecrest, Crate &amp; Barrel, Sunbrella, or any cushion mill.</p>
+      </div>
+      <div>
+        <p><strong>Guides</strong><br>
+        <a href="/guides/how-to-measure/">How to measure</a><br>
+        <a href="/guides/fabrics/">Outdoor fabrics</a><br>
+        <a href="/about/">About &amp; disclosures</a></p>
+      </div>
+      <div>
+        <p><strong>Brand pages</strong><br>
+        {% for brand in collections.brands %}
+        <a href="{{ brand.url }}">{{ brand.data.shortName or brand.data.title }}</a>{% if not loop.last %}<br>{% endif %}
+        {% endfor %}
+        </p>
+      </div>
+    </div>
+    <p class="disclosure"><strong>Affiliate disclosure.</strong> Some links on this site may be affiliate links. If you buy through one of them, we may earn a commission at no extra cost to you. Until partner accounts are approved, those links are clearly marked as placeholders and do not include tracking IDs. See the <a href="/about/">about page</a> for the full disclosure. Sources are linked on each page. We do not invent cushion dimensions.</p>
+    <p>© {{ "now" | year }} {{ site.name }}. v1 preview. {{ site.builtNote }}</p>
+  </div>
+</footer>

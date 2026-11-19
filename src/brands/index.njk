@@ -1,0 +1,23 @@
+---
+layout: base.njk
+title: Brand guides
+description: Official replacement paths and verified collection names for patio furniture cushions, starting with Brown Jordan, Homecrest, and Crate & Barrel Outdoor.
+permalink: /brands/
+---
+<div class="wrap">
+  <header class="page-hero">
+    <p class="crumbs"><a href="/">Home</a> / Brands</p>
+    <p class="kicker">Directory</p>
+    <h1>Brand guides</h1>
+    <p>Each guide explains how that manufacturer or retailer says to replace cushions, then lists collection names we could verify on a public page. No invented dimensions.</p>
+  </header>
+  <div class="grid-3" style="padding-bottom: 3rem;">
+    {% for brand in collections.brands %}
+    <a class="card" href="{{ brand.url }}">
+      <h3>{{ brand.data.shortName }}</h3>
+      <p>{{ brand.data.description }}</p>
+      <span class="more">Open the guide →</span>
+    </a>
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,19 @@
+<header class="site-header">
+  <div class="wrap site-header__inner">
+    <a class="logo" href="/" {% if page.url == "/" %}aria-current="page"{% endif %}>
+      <span class="mark" aria-hidden="true">
+        <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="3" y="14" width="26" height="13" rx="4" fill="#2c4a3c"/>
+          <rect x="6" y="6" width="20" height="11" rx="3.5" fill="#b25a36"/>
+        </svg>
+      </span>
+      PatioReseat
+    </a>
+    <nav class="nav" aria-label="Primary">
+      <a href="/brands/" {% if "/brands/" in page.url %}aria-current="page"{% endif %}>Brands</a>
+      <a href="/guides/how-to-measure/" {% if page.url == "/guides/how-to-measure/" %}aria-current="page"{% endif %}>How to measure</a>
+      <a href="/guides/fabrics/" {% if page.url == "/guides/fabrics/" %}aria-current="page"{% endif %}>Fabrics</a>
+      <a href="/about/" {% if page.url == "/about/" %}aria-current="page"{% endif %}>About</a>
+    </nav>
+  </div>
+</header>
