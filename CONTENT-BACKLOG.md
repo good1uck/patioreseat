@@ -7,7 +7,7 @@ Priority: collections we already named on v1 brand pages, then other brands peop
 
 ## Brown Jordan collections
 
-1. Brown Jordan Palmetto — cushions vs. cane sling vs. both
+1. ~~Brown Jordan Palmetto — cushions vs. cane sling vs. both~~ — done 2026-11-19 → `/brands/brown-jordan/palmetto/`
 2. Brown Jordan Fremont Cushion (and how it differs from Fremont Sling)
 3. Brown Jordan Pasadena Cushion
 4. Brown Jordan Softscape Cushion / Suncloth notes (cite current fabric docs)

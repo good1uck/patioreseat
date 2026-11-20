@@ -10,7 +10,7 @@ schema:
   "@type": Article
   headline: Brown Jordan replacement cushions
   datePublished: 2026-11-18
-  dateModified: 2026-11-18
+  dateModified: 2026-11-19
 ---
 
 Brown Jordan is a luxury outdoor-furniture brand founded in 1945 in Pasadena, California, by Robert Brown and Hubert Jordan ([Brown Jordan, “Modern Heritage in Montecito”](https://www.brownjordan.com/news/modern-heritage-in-montecito); [“80 Years of Timeless Design”](https://www.brownjordan.com/news/celebrating-80-years)).
@@ -55,7 +55,7 @@ If your piece is a sling or strap design rather than a boxed cushion, say so whe
 
 ### Palmetto
 
-Aluminum frames with tailored cushions and a cane sling, in the brand’s own description. If you are ordering replacements, confirm whether you need the **cushion**, the **cane sling**, or both — the collections copy mentions all three.
+Aluminum frames with tailored cushions and a cane sling, in the brand’s own description. If you are ordering replacements, confirm whether you need the **cushion**, the **cane sling**, or both — the collections copy mentions all three. See our full [Palmetto replacement guide](/brands/brown-jordan/palmetto/).
 
 ### Fremont
 
