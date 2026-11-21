@@ -10,7 +10,7 @@ schema:
   "@type": Article
   headline: Brown Jordan replacement cushions
   datePublished: 2026-11-18
-  dateModified: 2026-11-19
+  dateModified: 2026-11-20
 ---
 
 Brown Jordan is a luxury outdoor-furniture brand founded in 1945 in Pasadena, California, by Robert Brown and Hubert Jordan ([Brown Jordan, “Modern Heritage in Montecito”](https://www.brownjordan.com/news/modern-heritage-in-montecito); [“80 Years of Timeless Design”](https://www.brownjordan.com/news/celebrating-80-years)).
@@ -59,7 +59,7 @@ Aluminum frames with tailored cushions and a cane sling, in the brand’s own de
 
 ### Fremont
 
-Order the official path as **Fremont Cushion** or **Fremont Sling**, which the brand treats as related but distinct. Do not assume a sling pattern will cut as a boxed cushion, or the reverse.
+Order the official path as **Fremont Cushion** or **Fremont Sling**, which the brand treats as related but distinct. Do not assume a sling pattern will cut as a boxed cushion, or the reverse. See our full [Fremont Cushion vs. Fremont Sling guide](/brands/brown-jordan/fremont/).
 
 ### Pasadena
 
