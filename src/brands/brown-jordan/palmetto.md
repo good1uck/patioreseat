@@ -73,7 +73,7 @@ If a retailer cannot supply a cushion (or you want a different fabric than the o
 
 {% affiliatePlaceholder "Cushion Mill custom cushions (placeholder link)", "https://cushionmill.com/" %}
 
-Related: [Brown Jordan guide](/brands/brown-jordan/) · [Brown Jordan Fremont](/brands/brown-jordan/fremont/) · [All brand guides](/brands/) · [How to measure](/guides/how-to-measure/) · [Fabric guide](/guides/fabrics/)
+Related: [Brown Jordan guide](/brands/brown-jordan/) · [Brown Jordan Fremont](/brands/brown-jordan/fremont/) · [Brown Jordan Pasadena](/brands/brown-jordan/pasadena/) · [All brand guides](/brands/) · [How to measure](/guides/how-to-measure/) · [Fabric guide](/guides/fabrics/)
 
 <section class="sources">
 

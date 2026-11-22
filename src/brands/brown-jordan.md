@@ -10,7 +10,7 @@ schema:
   "@type": Article
   headline: Brown Jordan replacement cushions
   datePublished: 2026-11-18
-  dateModified: 2026-11-20
+  dateModified: 2026-11-21
 ---
 
 Brown Jordan is a luxury outdoor-furniture brand founded in 1945 in Pasadena, California, by Robert Brown and Hubert Jordan ([Brown Jordan, “Modern Heritage in Montecito”](https://www.brownjordan.com/news/modern-heritage-in-montecito); [“80 Years of Timeless Design”](https://www.brownjordan.com/news/celebrating-80-years)).
@@ -63,7 +63,7 @@ Order the official path as **Fremont Cushion** or **Fremont Sling**, which the b
 
 ### Pasadena
 
-A 2017 John Caldwell collection with both Cushion and Sling versions, described as a nod to mid-century California and the company’s aluminum work. A retailer will want that exact name (Pasadena Cushion vs. Pasadena Sling).
+A John Caldwell collection with both Cushion and Sling versions, described as a nod to mid-century California and the company’s aluminum work. Brown Jordan’s catalog also lists a **Padded Sling** group inside Pasadena Sling, and only Pasadena Cushion uses loose cushions. A retailer will want the exact name (Pasadena Cushion, Padded Sling, or Sling). See our full [Pasadena replacement guide](/brands/brown-jordan/pasadena/).
 
 ### Softscape
 
