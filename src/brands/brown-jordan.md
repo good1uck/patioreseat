@@ -10,7 +10,7 @@ schema:
   "@type": Article
   headline: Brown Jordan replacement cushions
   datePublished: 2026-11-18
-  dateModified: 2026-11-21
+  dateModified: 2026-11-22
 ---
 
 Brown Jordan is a luxury outdoor-furniture brand founded in 1945 in Pasadena, California, by Robert Brown and Hubert Jordan ([Brown Jordan, “Modern Heritage in Montecito”](https://www.brownjordan.com/news/modern-heritage-in-montecito); [“80 Years of Timeless Design”](https://www.brownjordan.com/news/celebrating-80-years)).
@@ -67,7 +67,7 @@ A John Caldwell collection with both Cushion and Sling versions, described as a 
 
 ### Softscape
 
-A 2018 John Caldwell collection in Cushion and Strap versions, described as using Suncloth fabric. For fabric background in general, see our [fabric guide](/guides/fabrics/); for Suncloth’s current specifications, use Brown Jordan’s own fabric documentation.
+A 2018 John Caldwell collection in Cushion (5350-) and Strap (5340-) versions, described as using Suncloth fabric. Most Softscape Cushion seating also has a Suncloth strap on the frame, so work out whether the worn part is a cushion or a strap before you order. See our full [Softscape Cushion vs. Strap guide](/brands/brown-jordan/softscape/), which also explains Suncloth Fabric vs. Suncloth Strap. For fabric background in general, see our [fabric guide](/guides/fabrics/).
 
 ## When a custom mill is the backup
 

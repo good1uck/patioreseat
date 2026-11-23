@@ -10,7 +10,7 @@ Priority: collections we already named on v1 brand pages, then other brands peop
 1. ~~Brown Jordan Palmetto — cushions vs. cane sling vs. both~~ — done 2026-11-19 → `/brands/brown-jordan/palmetto/`
 2. ~~Brown Jordan Fremont Cushion (and how it differs from Fremont Sling)~~ — done 2026-11-20 → `/brands/brown-jordan/fremont/`
 3. ~~Brown Jordan Pasadena Cushion~~ — done 2026-11-21 → `/brands/brown-jordan/pasadena/` (covers Pasadena Cushion vs. Padded Sling vs. Sling)
-4. Brown Jordan Softscape Cushion / Suncloth notes (cite current fabric docs)
+4. ~~Brown Jordan Softscape Cushion / Suncloth notes (cite current fabric docs)~~ — done 2026-11-22 → `/brands/brown-jordan/softscape/` (covers Softscape Cushion vs. Strap, Suncloth Fabric vs. Suncloth Strap)
 5. Brown Jordan Parkway Cushion (only after confirming the live collections or catalog page)
 6. Brown Jordan Venetian — official retailer path for a heritage line
 7. Brown Jordan Calcutta — history is on the collections page; still no invented sizes

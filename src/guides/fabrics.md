@@ -9,7 +9,7 @@ schema:
   headline: Outdoor cushion fabrics, including Sunbrella
   description: Factual guide to solution-dyed acrylic outdoor fabrics, with sources.
   datePublished: 2026-11-18
-  dateModified: 2026-11-18
+  dateModified: 2026-11-22
 ---
 
 Most replacement-cushion conversations jump straight to a brand name — “just make it in Sunbrella.” The useful question is more specific: what is the *fiber*, what did the mill actually claim, and is it the cover, the foam, or both that failed?
@@ -58,7 +58,7 @@ If your cushion cover is *not* a Sunbrella fabric, do not borrow the bleach step
 
 Furniture brands often use their own trademarked fabric names on top of a fiber type.
 
-- Brown Jordan describes some collections as using **Suncloth** — for example, its collections page says John Caldwell created the Softscape Cushion and Softscape Strap collections in 2018 “using revolutionary new Suncloth fabric” ([Brown Jordan collections](https://www.brownjordan.com/products/collection)). We have not restated Suncloth’s fiber content here because that belongs on Brown Jordan’s own fabric documentation.
+- Brown Jordan describes some collections as using **Suncloth** — for example, its collections page says John Caldwell created the Softscape Cushion and Softscape Strap collections in 2018 “using revolutionary new Suncloth fabric” ([Brown Jordan collections](https://www.brownjordan.com/products/collection)). We have not restated Suncloth’s fiber content here because that belongs on Brown Jordan’s own fabric documentation. Brown Jordan sells both a Suncloth *fabric* (for cushions) and a Suncloth *strap*; our [Softscape guide](/brands/brown-jordan/softscape/) explains the difference and how fabric numbers and grades appear in the catalog.
 - Homecrest describes **Sensation** fabrics as a sling material that “combine[s] the strength and UV-stability of PVC fibers with the comfort and outstanding memory of elastomeric yarns,” and as exclusive to Homecrest ([Homecrest FAQ](https://www.homecrest.com/faq/default)). That is a sling story, not automatically a boxed-cushion story. Homecrest also states on its About page that it “was also the first outdoor furniture manufacturer to use Sunbrella fabrics on outdoor furniture” ([About Homecrest](https://www.homecrest.com/About/default)).
 
 We do not publish fade-year ratings, warranty lengths, or “best fabric” scores unless a primary source states them on the page we are citing. Warranties also change; read the current document from the mill or the furniture brand.
