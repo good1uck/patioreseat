@@ -42,6 +42,7 @@ The following notes are paraphrased from Brown Jordan’s public [All Collection
 - **[Fremont](#fremont).** Designed by John Caldwell. “The collection is available as Fremont Cushion and Fremont Sling.”
 - **[Pasadena](#pasadena).** “In 2017, award-winning designer John Caldwell created Pasadena Cushion and Pasadena Sling, collections that nod to the brand’s mid-century California roots and 80-years expertise in forged aluminum.”
 - **[Softscape](#softscape).** “In 2018, designer John Caldwell created the simple, luxurious Softscape Cushion and Softscape Strap collections using revolutionary new Suncloth fabric.”
+- **[Parkway](#parkway).** Designed by John Caldwell. The Parkway collection page names “three material translations, Parkway Sling, Parkway Cushion, and Parkway Flex,” plus a later Modular system.
 - **Sonora.** Described as usable “with or without a slim cushion,” with a sling base.
 - **Vero.** Described as modular, with “generous comfort.” The collections page does not, in the text we checked, publish cushion sizes.
 - **Solenne.** Teak and powder-coated aluminum, “enduring comfort” — again, no cushion-size chart in that write-up.
@@ -69,6 +70,10 @@ A John Caldwell collection with both Cushion and Sling versions, described as a 
 
 A 2018 John Caldwell collection in Cushion (5350-) and Strap (5340-) versions, described as using Suncloth fabric. Most Softscape Cushion seating also has a Suncloth strap on the frame, so work out whether the worn part is a cushion or a strap before you order. See our full [Softscape Cushion vs. Strap guide](/brands/brown-jordan/softscape/), which also explains Suncloth Fabric vs. Suncloth Strap. For fabric background in general, see our [fabric guide](/guides/fabrics/).
 
+### Parkway
+
+A John Caldwell collection in four builds: Parkway Cushion (3470-), Parkway Modular (4560-), Parkway Sling (5330-), and Parkway Framed Sling, which the 2024 catalog calls Parkway Flex Sling and which also uses 3470- numbers. Only Cushion and Modular use loose cushions, so give a retailer the full item number, not just the last four digits. See our full [Parkway replacement guide](/brands/brown-jordan/parkway/).
+
 ## When a custom mill is the backup
 
 If a retailer cannot supply a pad — a retired SKU, a single missing piece, or a fabric the official line no longer carries — a custom shop can cut to **your measurements**. That is a backup, not a shortcut around identification. Photograph the frame, keep any official collection name you received from customer service, and measure with the [guide](/guides/how-to-measure/).
@@ -82,6 +87,7 @@ If a retailer cannot supply a pad — a retired SKU, a single missing piece, or 
 - [Brown Jordan FAQ](https://www.brownjordan.com/support/faq)
 - [Brown Jordan Locations](https://www.brownjordan.com/locations)
 - [Brown Jordan, All Collections](https://www.brownjordan.com/products/collection)
+- [Brown Jordan, Parkway collection page](https://www.brownjordan.com/products/collection/multi-type/parkway)
 - [Brown Jordan, “Modern Heritage in Montecito”](https://www.brownjordan.com/news/modern-heritage-in-montecito)
 - [Brown Jordan, “80 Years of Timeless Design”](https://www.brownjordan.com/news/celebrating-80-years)
 
