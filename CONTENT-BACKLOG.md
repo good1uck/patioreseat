@@ -12,7 +12,7 @@ Priority: collections we already named on v1 brand pages, then other brands peop
 3. ~~Brown Jordan Pasadena Cushion~~ — done 2026-11-21 → `/brands/brown-jordan/pasadena/` (covers Pasadena Cushion vs. Padded Sling vs. Sling)
 4. ~~Brown Jordan Softscape Cushion / Suncloth notes (cite current fabric docs)~~ — done 2026-11-22 → `/brands/brown-jordan/softscape/` (covers Softscape Cushion vs. Strap, Suncloth Fabric vs. Suncloth Strap)
 5. ~~Brown Jordan Parkway Cushion (only after confirming the live collections or catalog page)~~ — done 2026-11-24 → `/brands/brown-jordan/parkway/` (covers Parkway Cushion, Modular, Sling, and Framed Sling / Flex; item-number traps)
-6. Brown Jordan Venetian — official retailer path for a heritage line
+6. ~~Brown Jordan Venetian — official retailer path for a heritage line~~ — done 2026-11-24 → `/brands/brown-jordan/venetian/` (covers 2250- item numbers, retailer naming differences, older pieces such as the adjustable chair, aftermarket options)
 7. Brown Jordan Calcutta — history is on the collections page; still no invented sizes
 8. Brown Jordan Sol Y Luna
 9. Brown Jordan Vero / Huntley modular cushion questions

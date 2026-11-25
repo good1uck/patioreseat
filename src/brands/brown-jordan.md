@@ -50,7 +50,7 @@ The following notes are paraphrased from Brown Jordan’s public [All Collection
 - **Juno** poufs, described as pairing woven rope with “waterproof, high-density cushioning” and an aluminum frame.
 - **Ventura** poufs, “thoughtfully tailored” for use as an ottoman, extra seat, or casual surface.
 
-Older or heritage names also appear on the same page and in the brand’s anniversary article, including **Calcutta** (originally designed by Hall Bradley in 1967, reintroduced by John Caldwell in 1987), **Sol Y Luna** (first released in 1954, described as an adaptation of Dan Johnson’s Gazelle Collection in cast aluminum), **Still** (Richard Frinier, 2012), and **Venetian** (the anniversary page lists “Since 1987 – Venetian Collection”). We mention them because owners of older sets often search these names. We still do not have official cushion dimensions to publish for them.
+Older or heritage names also appear on the same page and in the brand’s anniversary article, including **Calcutta** (originally designed by Hall Bradley in 1967, reintroduced by John Caldwell in 1987), **Sol Y Luna** (first released in 1954, described as an adaptation of Dan Johnson’s Gazelle Collection in cast aluminum), **Still** (Richard Frinier, 2012), and **Venetian** (the anniversary page lists “Since 1987 – Venetian Collection”; see our [Venetian guide](/brands/brown-jordan/venetian/)). We mention them because owners of older sets often search these names. We still do not have official cushion dimensions to publish for them.
 
 If your piece is a sling or strap design rather than a boxed cushion, say so when you contact a retailer. Those are different replacement parts on the FAQ.
 
@@ -73,6 +73,10 @@ A 2018 John Caldwell collection in Cushion (5350-) and Strap (5340-) versions, d
 ### Parkway
 
 A John Caldwell collection in four builds: Parkway Cushion (3470-), Parkway Modular (4560-), Parkway Sling (5330-), and Parkway Framed Sling, which the 2024 catalog calls Parkway Flex Sling and which also uses 3470- numbers. Only Cushion and Modular use loose cushions, so give a retailer the full item number, not just the last four digits. See our full [Parkway replacement guide](/brands/brown-jordan/parkway/).
+
+### Venetian
+
+A Richard Frinier collection from 1987, described in the catalog as having the look of wrought iron in aluminum, with scroll-end arms and an X-shaped back. It is sold as a cushion line under 2250- item numbers, but retailers often call the pieces by their own names (“Scroll-Arm Lounge Chair,” “Modular Corner Chair”), and some older pieces, such as an adjustable chair, are not in the current lineup. See our full [Venetian replacement guide](/brands/brown-jordan/venetian/).
 
 ## When a custom mill is the backup
 
