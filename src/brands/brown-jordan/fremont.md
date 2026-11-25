@@ -104,7 +104,7 @@ If the official route can’t supply what you need (for example, a discontinued 
 
 {% affiliatePlaceholder "Cushion Mill custom cushions (placeholder link)", "https://cushionmill.com/" %}
 
-Related: [Brown Jordan guide](/brands/brown-jordan/) · [Brown Jordan Palmetto](/brands/brown-jordan/palmetto/) · [Brown Jordan Pasadena](/brands/brown-jordan/pasadena/) · [Brown Jordan Softscape](/brands/brown-jordan/softscape/) · [Brown Jordan Parkway](/brands/brown-jordan/parkway/) · [All brand guides](/brands/) · [How to measure](/guides/how-to-measure/) · [Fabric guide](/guides/fabrics/)
+Related: [Brown Jordan guide](/brands/brown-jordan/) · [Brown Jordan Palmetto](/brands/brown-jordan/palmetto/) · [Brown Jordan Pasadena](/brands/brown-jordan/pasadena/) · [Brown Jordan Softscape](/brands/brown-jordan/softscape/) · [Brown Jordan Parkway](/brands/brown-jordan/parkway/) · [Brown Jordan Venetian](/brands/brown-jordan/venetian/) · [All brand guides](/brands/) · [How to measure](/guides/how-to-measure/) · [Fabric guide](/guides/fabrics/)
 
 <section class="sources">
 
