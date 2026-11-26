@@ -10,7 +10,7 @@ schema:
   "@type": Article
   headline: Brown Jordan replacement cushions
   datePublished: 2026-11-18
-  dateModified: 2026-11-22
+  dateModified: 2026-11-25
 ---
 
 Brown Jordan is a luxury outdoor-furniture brand founded in 1945 in Pasadena, California, by Robert Brown and Hubert Jordan ([Brown Jordan, “Modern Heritage in Montecito”](https://www.brownjordan.com/news/modern-heritage-in-montecito); [“80 Years of Timeless Design”](https://www.brownjordan.com/news/celebrating-80-years)).
@@ -50,7 +50,7 @@ The following notes are paraphrased from Brown Jordan’s public [All Collection
 - **Juno** poufs, described as pairing woven rope with “waterproof, high-density cushioning” and an aluminum frame.
 - **Ventura** poufs, “thoughtfully tailored” for use as an ottoman, extra seat, or casual surface.
 
-Older or heritage names also appear on the same page and in the brand’s anniversary article, including **Calcutta** (originally designed by Hall Bradley in 1967, reintroduced by John Caldwell in 1987), **Sol Y Luna** (first released in 1954, described as an adaptation of Dan Johnson’s Gazelle Collection in cast aluminum), **Still** (Richard Frinier, 2012), and **Venetian** (the anniversary page lists “Since 1987 – Venetian Collection”; see our [Venetian guide](/brands/brown-jordan/venetian/)). We mention them because owners of older sets often search these names. We still do not have official cushion dimensions to publish for them.
+Older or heritage names also appear on the same page and in the brand’s anniversary article, including **Calcutta** (originally designed by Hall Bradley in 1967, reintroduced by John Caldwell in 1987 according to the collections page, or 2007 according to the 2024 catalog; see our [Calcutta guide](/brands/brown-jordan/calcutta/)), **Sol Y Luna** (first released in 1954, described as an adaptation of Dan Johnson’s Gazelle Collection in cast aluminum), **Still** (Richard Frinier, 2012), and **Venetian** (the anniversary page lists “Since 1987 – Venetian Collection”; see our [Venetian guide](/brands/brown-jordan/venetian/)). We mention them because owners of older sets often search these names. We still do not have official cushion dimensions to publish for them.
 
 If your piece is a sling or strap design rather than a boxed cushion, say so when you contact a retailer. Those are different replacement parts on the FAQ.
 
@@ -78,6 +78,10 @@ A John Caldwell collection in four builds: Parkway Cushion (3470-), Parkway Modu
 
 A Richard Frinier collection from 1987, described in the catalog as having the look of wrought iron in aluminum, with scroll-end arms and an X-shaped back. It is sold as a cushion line under 2250- item numbers, but retailers often call the pieces by their own names (“Scroll-Arm Lounge Chair,” “Modular Corner Chair”), and some older pieces, such as an adjustable chair, are not in the current lineup. See our full [Venetian replacement guide](/brands/brown-jordan/venetian/).
 
+### Calcutta
+
+A faux-bamboo, Chinese Chippendale-style collection in cast aluminum, originally designed by Hall Bradley in 1967 and later reintroduced “on a grander scale” by John Caldwell. Current seating uses 3510- item numbers, but many Calcutta sets on the resale market are the older generation, so the current furniture dimensions may not apply to them. See our full [Calcutta replacement guide](/brands/brown-jordan/calcutta/).
+
 ## When a custom mill is the backup
 
 If a retailer cannot supply a pad — a retired SKU, a single missing piece, or a fabric the official line no longer carries — a custom shop can cut to **your measurements**. That is a backup, not a shortcut around identification. Photograph the frame, keep any official collection name you received from customer service, and measure with the [guide](/guides/how-to-measure/).
@@ -91,6 +95,8 @@ If a retailer cannot supply a pad — a retired SKU, a single missing piece, or 
 - [Brown Jordan FAQ](https://www.brownjordan.com/support/faq)
 - [Brown Jordan Locations](https://www.brownjordan.com/locations)
 - [Brown Jordan, All Collections](https://www.brownjordan.com/products/collection)
+- [Brown Jordan, Calcutta collection page](https://www.brownjordan.com/products/collection/cushion/calcutta)
+- [Brown Jordan, All Collections catalog (PDF)](https://platform.brownjordan.com/media/pdf/All%20Collections%20Catalog.pdf)
 - [Brown Jordan, Parkway collection page](https://www.brownjordan.com/products/collection/multi-type/parkway)
 - [Brown Jordan, “Modern Heritage in Montecito”](https://www.brownjordan.com/news/modern-heritage-in-montecito)
 - [Brown Jordan, “80 Years of Timeless Design”](https://www.brownjordan.com/news/celebrating-80-years)
