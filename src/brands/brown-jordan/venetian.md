@@ -127,7 +127,7 @@ Before you order from any of them, compare the shop’s published sizes with you
 
 {% affiliatePlaceholder "Cushion Mill custom cushions (placeholder link)", "https://cushionmill.com/" %}
 
-Related: [Brown Jordan guide](/brands/brown-jordan/) · [Brown Jordan Parkway](/brands/brown-jordan/parkway/) · [Brown Jordan Softscape](/brands/brown-jordan/softscape/) · [Brown Jordan Pasadena](/brands/brown-jordan/pasadena/) · [Brown Jordan Fremont](/brands/brown-jordan/fremont/) · [Brown Jordan Palmetto](/brands/brown-jordan/palmetto/) · [All brand guides](/brands/) · [How to measure](/guides/how-to-measure/) · [Fabric guide](/guides/fabrics/)
+Related: [Brown Jordan guide](/brands/brown-jordan/) · [Brown Jordan Parkway](/brands/brown-jordan/parkway/) · [Brown Jordan Softscape](/brands/brown-jordan/softscape/) · [Brown Jordan Pasadena](/brands/brown-jordan/pasadena/) · [Brown Jordan Fremont](/brands/brown-jordan/fremont/) · [Brown Jordan Palmetto](/brands/brown-jordan/palmetto/) · [Brown Jordan Calcutta](/brands/brown-jordan/calcutta/) · [All brand guides](/brands/) · [How to measure](/guides/how-to-measure/) · [Fabric guide](/guides/fabrics/)
 
 <section class="sources">
 
